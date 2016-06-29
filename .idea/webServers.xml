@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d0d9d1b-3aaa-47ff-9378-e27ddde5c8ec" name="OpenServer" url="http://pdo.dev">
+        <fileTransfer port="0" mountedRoot="C:\WEBDEV\OpenServer\domains\localhost\LearnBox\pdo.dev" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
